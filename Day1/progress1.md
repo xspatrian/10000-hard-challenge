@@ -1,6 +1,7 @@
-#Day1
+# Day1
+
 reports count : 7 
-total time spent : 58 min.
+total time spent : 52 min.
 
 
 It's ok to start slow some times.
